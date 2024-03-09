@@ -43,3 +43,7 @@
 .section {
   padding-top: 94px;
 }
+
+a {
+  text-decoration: none;
+}
