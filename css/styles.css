@@ -47,3 +47,14 @@
 a {
   text-decoration: none;
 }
+
+.third-section {
+  background-color: #fff;
+  background-image: url(../images/third-section-image.jpg);
+  height: 849px;
+  margin-top: 94px;
+}
+
+/* .third-section-text {
+  padding-left: 0px;
+} */
