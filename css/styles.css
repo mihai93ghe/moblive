@@ -53,6 +53,7 @@ a {
   background-image: url(../images/third-section-image.jpg);
   height: 849px;
   margin-top: 94px;
+  background-repeat: no-repeat;
 }
 
 /* .third-section-text {
